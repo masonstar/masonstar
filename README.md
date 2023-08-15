@@ -1,3 +1,8 @@
+![image](https://github.com/masonstar/masonstar/assets/79403604/5964d0da-39af-499d-9d20-313a7db341d5)
+
+Passionate Finance student, with a deep interest in leveraging data analytics to bring new insights to financial strategy and Fintech innovation. Equipped with strong quantitative skills, a mastery of Excel, and experience with SQL and Python, I'm positioned to provide essential data-driven insights. My academic background has provided me a comprehensive understanding of financial principles and asset management strategies, which I am keen to apply in an innovative Fintech setup. Beyond my technical skills, I am a determined problem-solver and a collaborative team player, dedicated to driving efficiency and achieving outstanding results. 
+
+Currently seeking opportunities that will allow me to use my skills to impact and shape the future of finance.
 ### Hi there 👋
 
 <!--
